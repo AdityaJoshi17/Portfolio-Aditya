@@ -9,13 +9,13 @@ export const Home = () => {
       <RevealOnScroll>
         <div className="text-center z-10 px-4">
           <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-right">
-            Hi, I'm Pedro Tech
+            Hi, I'm Aditya Joshi
           </h1>
 
           <p className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto">
-            I’m a full-stack developer who loves crafting clean, scalable web
-            applications. My goal is to build solutions that offer both
-            exceptional performance and a delightful user experience.
+            I’ve always loved creating things, solving problems and designing experiences. This portfolio is a collection of projects that
+            reflect who I am, what I care about, and what I’m learning along the way.
+            Thanks for stopping by — it means a lot. I hope you find something here that sparks your interest!
           </p>
           <div className="flex justify-center space-x-4">
             <a
